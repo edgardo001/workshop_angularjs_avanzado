@@ -1,0 +1,15 @@
+angular mvc
+
+$digest: ciclo renderizado, renderiza solo los cambios
+$apply: ciclo renderizado, renderiza todo! (no usar relentiza el sistema)
+
+Angular: implementa patron observador (observer), puede tener diferentes nombres dependiendo el leguaje
+
+$watcher: hacen referencia la patron observador
+$scope: ambito de angular
+
+El patron obervador enlaza al vista y al modelo
+E
+l scope enlaza al controlador y al modelo
+
+
